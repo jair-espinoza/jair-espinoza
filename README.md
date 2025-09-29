@@ -1,6 +1,6 @@
 # 🪡 Jair Espinoza
 
-<p align="center">
+<p align="left">
   <kbd>Computer Science Graduate, SU '25 | Software Developer | Lifelong Learner</kbd>
 </p>
 
