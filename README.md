@@ -1,6 +1,6 @@
 # 🪡 Jair Espinoza
 
-**Computer Science Graduate, SU '25 | Software Developer | Lifetime Learner**
+> **Computer Science Graduate, SU '25 | Software Developer | Lifetime Learner**
 
 I’m a public servant at heart, combining human understanding with technology to solve real world problems. All my coding projects are built from the ground up inspired by real challenges and technical areas of fascination I’ve explored.
 
