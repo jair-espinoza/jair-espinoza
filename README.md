@@ -59,9 +59,11 @@ I’m a public servant at heart, combining human understanding with technology t
 
 ### Currently Exploring 🌎
 - System Design & scalable deployment
-- Hair Mesh Rendering [link](https://www.cemyuksel.com/research/hairmesh_rendering/)
+- Hair Mesh Rendering [Research](https://www.cemyuksel.com/research/hairmesh_rendering/)
 
 ### Links 🔗
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jairespinoza)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox)](https://jairespinoza.dev)
+
+- **LinkedIn:** [linkedin.com/in/jairespinoza](https://linkedin.com/in/jairespinoza)  
+- **Portfolio:** [jairespinoza-portfolio.netlify.app](https://jairespinoza-portfolio.netlify.app)
+
 
