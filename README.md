@@ -48,7 +48,7 @@ I’m a public servant at heart, combining human understanding with technology t
 - Deployed as a SaaS containerized app
 
 #### [Region J – NYC Energy Data Pipeline](https://github.com/jairespinoza/region-j)
-*A Postgres-based data pipeline and analytics system for monitoring and predicting New York City’s energy output. This project ingests energy data from the **New York Independent System Operator (NYISO)** and the **U.S. Energy Information Administration (EIA)** to model and forecast electricity trends for **Region J (NYC)**.
+*A Postgres-based data pipeline and analytics system for monitoring and predicting New York City’s energy output.* This project ingests energy data from the **New York Independent System Operator (NYISO)** and the **U.S. Energy Information Administration (EIA)** to model and forecast electricity trends for **Region J (NYC)**.
 
 - **Automated ingestion** of historical data from EIA & NYISO APIs
 - **PostgreSQL–SQLAlchemy pipeline** for consistent, scalable ETL operations
