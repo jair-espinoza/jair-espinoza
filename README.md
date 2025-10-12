@@ -10,7 +10,7 @@ I’m a public servant at heart, combining human understanding with technology t
 
 ---
 
-### 🧰 Languages & Tools
+### Languages & Tools 🧰
 
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -27,4 +27,41 @@ I’m a public servant at heart, combining human understanding with technology t
 <img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br clear="left"/>
+
+---
+
+### Project 📚
+
+#### [Quantum Money Simulation](https://github.com/jairespinoza/quantum-money-simulation)
+*A python based simulation inspired by **Wiesner's Quantum Money Scheme** - showcasing how quaumn states protect against forgery.*
+
+- Models **quantum bill creation and verification**
+- Simulating **counterfeit** attempts
+- Visualize simulation results in a Jupyter notebook
+
+#### [Solar Irradiance Calculator – SaaS](https://github.com/jairespinoza/solar-irradiance-calculator)
+*A full-stack Flask web application that calculates and visualizes solar irradiance to optimize solar panel placement and energy forecasting.*
+
+- Login system using SQLite backend
+- Interactive dashboard showcasing previous calculations
+- Downloadable **PDF Solar Irradiance Calculations** lab reports
+- Deployed as a SaaS containerized app
+
+#### [Region J – NYC Energy Data Pipeline](https://github.com/jairespinoza/region-j)
+*A Postgres-based data pipeline and analytics system for monitoring and predicting New York City’s energy output. This project ingests energy data from the **New York Independent System Operator (NYISO)** and the **U.S. Energy Information Administration (EIA)** to model and forecast electricity trends for **Region J (NYC)**.
+
+- **Automated ingestion** of historical data from EIA & NYISO APIs
+- **PostgreSQL–SQLAlchemy pipeline** for consistent, scalable ETL operations
+- **Machine-learning anomaly detection** with correlation analyses across multiple energy sources and climatic variables
+- **Model benchmarking & fine tuning** to flag irregular demand patterns and improve grid stability
+
+---
+
+### Currently Exploring 🌎
+- System Design & scalable deployment
+- Hair Mesh Rendering [link](https://www.cemyuksel.com/research/hairmesh_rendering/)
+
+### Links 🔗
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jairespinoza)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox)](https://jairespinoza.dev)
 
