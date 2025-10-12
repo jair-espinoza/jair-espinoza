@@ -30,7 +30,7 @@ I’m a public servant at heart, combining human understanding with technology t
 
 ---
 
-### Project 📚
+### Projects 📚
 
 #### [Quantum Money Simulation](https://github.com/jairespinoza/quantum-money-simulation)
 *A python based simulation inspired by **Wiesner's Quantum Money Scheme** - showcasing how quaumn states protect against forgery.*
