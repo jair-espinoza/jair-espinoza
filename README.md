@@ -41,12 +41,14 @@ I’m a public servant at heart, combining human understanding with technology t
 - Visualize simulation results in a Jupyter notebook
 
 #### [Solar Irradiance Calculator – SaaS](https://github.com/jairespinoza/solar-irradiance-calculator)
-*A full-stack Flask web application that calculates and visualizes solar irradiance to optimize solar panel placement and energy forecasting.*
+*A full-stack **Node.js, Express.js, TypeScript, React, MongoDB** web application that calculates solar irradiance to optimize solar panel placement for energy forecasting.*
 
-- Login system using SQLite backend
-- Interactive dashboard showcasing previous calculations
-- Downloadable **PDF Solar Irradiance Calculations** lab reports
-- Deployed as a SaaS containerized app
+- Solar irradiance and energy output calculation
+- User authentication with JWT
+- Secure password hashing
+- Save and manage calculation history for comparison in MongoDB
+- Custom RESTful API
+- Responsive React frontend
 
 #### [Region J – NYC Energy Data Pipeline](https://github.com/jairespinoza/region-j)
 *A Postgres-based data pipeline and analytics system for monitoring and predicting New York City’s energy output.* This project ingests energy data from the **New York Independent System Operator (NYISO)** and the **U.S. Energy Information Administration (EIA)** to model and forecast electricity trends for **Region J (NYC)**.
