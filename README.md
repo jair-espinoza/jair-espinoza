@@ -40,7 +40,7 @@ I’m a public servant at heart, combining human understanding with technology t
 - Simulating **counterfeit** attempts
 - Visualize simulation results in a Jupyter notebook
 
-#### [Solar Irradiance Calculator – SaaS](https://github.com/jairespinoza/solar-irradiance-calculator)
+#### [Solar Irradiance Calculator – SaaS](https://github.com/jair-espinoza/Solar-Irradiance-Calculator-SaaS)
 *A full-stack **Node.js, Express.js, TypeScript, React, MongoDB** web application that calculates solar irradiance to optimize solar panel placement for energy forecasting.*
 
 - Solar irradiance and energy output calculation
