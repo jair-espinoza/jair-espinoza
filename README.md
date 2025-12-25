@@ -33,7 +33,7 @@ I’m a public servant at heart, combining human understanding with technology t
 
 ### Projects 📚
 
-#### [Quantum Money Simulation](https://github.com/jairespinoza/quantum-money-simulation)
+#### [Quantum Money Simulation](https://github.com/jair-espinoza/quantum-money-simulation)
 *A python based simulation inspired by **Wiesner's Quantum Money Scheme** - showcasing how quaumn states protect against forgery.*
 
 - Models **quantum bill creation and verification**
@@ -50,7 +50,7 @@ I’m a public servant at heart, combining human understanding with technology t
 - Custom RESTful API
 - Responsive React frontend
 
-#### [Region J – NYC Energy Data Pipeline](https://github.com/jairespinoza/region-j)
+#### [Region J – NYC Energy Data Pipeline](https://github.com/jair-espinoza/NYISO-RegionJ--Energy-Anomaly-Detection)
 *A Postgres-based data pipeline and analytics system for monitoring and predicting New York City’s energy output.* This project ingests energy data from the **New York Independent System Operator (NYISO)** and the **U.S. Energy Information Administration (EIA)** to model and forecast electricity trends for **Region J (NYC)**.
 
 - **Automated ingestion** of historical data from EIA & NYISO APIs
